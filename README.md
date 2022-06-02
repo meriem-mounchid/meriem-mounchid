@@ -1,4 +1,4 @@
-### Hi there, I'm MISΛKI
+### Hi there, I'm MISΛKI ^_^
 
 <div align="center">
   
