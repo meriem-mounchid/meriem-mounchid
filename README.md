@@ -1,3 +1,5 @@
+<img src="/src/header_.png">
+
 ---
 
 <h1 align="center">About me</h1>
@@ -20,3 +22,9 @@
 
 <a href="http://www.github.com/meriem-mounchid"><img src="https://activity-graph.herokuapp.com/graph?username=meriem-mounchid&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
+
+---
+
+<p align="center">
+   <img src="https://github.com/meriem-mounchid/meriem-mounchid/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
